@@ -6,3 +6,5 @@ Cara menjalankan website
 5. copy link https://..... , kemudian paste pada browser anda dan tambahkan /docs
 6. kemudian tekan pada post, lalu tekan try it out
 7. masukkan gambar angka, lalu execute.
+
+untuk Capstone.zip dan Capstone Project.zip sama saja hanya berbeda pada Capstone Project.zip memiliki video tutorial
