@@ -8,3 +8,5 @@ Cara menjalankan website
 7. masukkan gambar angka, lalu execute.
 
 untuk Capstone.zip dan Capstone Project.zip sama saja hanya berbeda pada Capstone Project.zip memiliki video tutorial
+notes !!
+pastikan sudah mendownload dan gunakan python ver 3.11 ke bawah
